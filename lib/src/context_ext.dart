@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
+// import 'package:flutter_bloc/flutter_bloc.dart';
 
 /*
  this File clone from repo :https://github.com/seyf1elislam
 */
 extension Blocsr on BuildContext {
-  // NotesCubit get noteCubit => BlocProvider.of<NotesCubit>(this);
-  T cubit<T extends Cubit>() => BlocProvider.of<T>(this);
-  T bloc<T extends Bloc>() => BlocProvider.of<T>(this);
+  // unCommnet this if u need it
+  //T cubit<T extends Cubit>() => BlocProvider.of<T>(this);
+  //T bloc<T extends Bloc>() => BlocProvider.of<T>(this);
 }
 
 extension Navigation on BuildContext {

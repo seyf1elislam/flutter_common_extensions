@@ -5,22 +5,23 @@ a useful Flutter extensions pack to enhance your development workflow and make y
 Extensions in Flutter are some custom methods that can be defined for certain Class Types to add more Functionalities even for  Predefined Classes such as widgets ,Buildcontext,and data types (int , string , double ...).
 ## installation :
 * add the package into you app dependencies in pubspec.yaml
-![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/0fb47a3d-26ea-4f64-af90-af7b2e924347)
+* ![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/a459af85-a0c2-4f18-af3e-8d123fdae045)
+
 ## usage :
 * import the package :
-* ![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/888ec1d8-7c96-42e6-924b-f94b67607514)
+* ![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/1c2717f1-799f-4b48-a981-f4c1f04c3cf9)
 * then use it <3
-* ![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/db923d67-cb58-4aa2-8c64-5c3213c2a325)
+* ![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/cf3df0d6-9fc7-420d-b2b9-96b1930e0629)
 
 ## content :
 * Extensions for BuildContext Type such as Navigations, theming, Screen Sizes etc
-* * ![image](https://github.com/seyf1elislam/flutter_extentions/assets/40665383/daa04b96-23db-49b7-96da-9c801ff11ccb)
-* * ![image](https://github.com/seyf1elislam/flutter_extentions/assets/40665383/bbbac73c-a26e-419d-9c3a-35674552e2f5)
+* *![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/4587378e-98a0-4557-87bf-1c6e851d6c76)
+* *![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/ea1684c4-8bc0-4356-8462-f06c6861d5e5)
 *  Extensions on Widgets
-* * ![image](https://github.com/seyf1elislam/flutter_extentions/assets/40665383/24245846-f24c-4066-a10a-bb6b4b985258)
+* *![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/1c9f23e2-94e8-4283-a556-0f647807027d)
 * Extensions on basic types such as integer and string
-*  * ![image](https://github.com/seyf1elislam/flutter_extentions/assets/40665383/1a3e8102-4712-4158-85c0-422fca78ced6)
-
+*  *![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/8a82025c-8aaf-419d-9b38-2709acebc01e)
+*  
 And much more <3
 
 

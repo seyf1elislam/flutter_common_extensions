@@ -1,7 +1,8 @@
 name: flutter_common_extensions
 description: a useful Flutter extensions pack to enhance your development workflow and make your Code more Organized and readable
 version: 0.0.1
-homepage:
+homepage: https://github.com/seyf1elislam/flutter_common_extensions
+repository: https://github.com/seyf1elislam/flutter_common_extensions
 
 environment:
   sdk: ">=3.0.6 <4.0.0"

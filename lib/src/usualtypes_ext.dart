@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 
-
 /*
  this File clone from repo :https://github.com/seyf1elislam
 */
-extension stringExtensions on String {
+extension StringExtensions on String {
   String cutString(maxLen) {
     if (length >= maxLen) {
       return "${substring(0, maxLen)}...";
@@ -38,7 +37,7 @@ extension IntegerExt on int {
 // 10.height //this will return Sized box with height 10
 // 10.width //this will return Sized box with width 10
 
-extension doubleext on double {
+extension DoubleExt on double {
   Widget height() {
     return SizedBox(
       height: this,

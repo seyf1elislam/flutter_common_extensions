@@ -3,6 +3,14 @@ a useful Flutter extensions pack to enhance your development workflow and make y
 
 ## what is Flutter extentions
 Extensions in Flutter are some custom methods that can be defined for certain Class Types to add more Functionalities even for  Predefined Classes such as widgets ,Buildcontext,and data types (int , string , double ...).
+## installation :
+* add the package into you app dependencies in pubspec.yaml
+![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/0fb47a3d-26ea-4f64-af90-af7b2e924347)
+## usage :
+* import the package :
+* ![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/888ec1d8-7c96-42e6-924b-f94b67607514)
+* then use it <3
+* ![image](https://github.com/seyf1elislam/flutter_common_extensions/assets/40665383/db923d67-cb58-4aa2-8c64-5c3213c2a325)
 
 ## content :
 * Extensions for BuildContext Type such as Navigations, theming, Screen Sizes etc
